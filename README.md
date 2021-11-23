@@ -1,1 +1,1 @@
-# cyberight.capital
+# cyberight_web
